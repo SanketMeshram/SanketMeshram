@@ -4,7 +4,6 @@
 - 🤡 I'm currently working on FANG Clones
 - 📚 I'm currently learning JavaSript
 - ☮️ Looking forward to contribute more to Open Source projects
-- 🌈 Fun Fact: I ❤️ to play with voilen
 - Currently learning Django for Backend & Reactjs for Frontend
 
 <br />
